@@ -7,5 +7,3 @@ categories.forEach((e) => {
     `Category: ${title.textContent}\nElements: ${list.children.length}`
   );
 });
-
-// у меня не получаетьс запушить в github
